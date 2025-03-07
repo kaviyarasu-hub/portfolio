@@ -1,0 +1,48 @@
+.imge{
+    margin-left: 180px;
+    width: 500px;
+    height: 500px;
+}
+    #img2{
+    border-radius: 360%;
+}
+.abc{
+    display: flex;
+    margin-top: 7%;
+}
+ul{
+    justify-content:space-around;
+    list-style-type: none;
+    font-size: 30px;
+    text-align: center;
+    
+}
+#one{
+    display: inline;
+    color: black;
+}
+#two{
+    display: inline;
+    color: violet;
+    font-size: 100px;
+}
+#three{
+    padding: 0px;
+    margin: 0px;
+    font-size: 100px;
+}
+.text{
+    margin-left: 30px;
+    width: 600px;
+    height: 600px;
+}
+#arasu{
+    list-style-type: none;
+    font-size: 30px;
+}
+#four{
+    font-size: large;
+}
+.btn a{
+    text-decoration: none;
+}
