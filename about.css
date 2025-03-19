@@ -3,7 +3,7 @@
     height: 300px;
      border-radius: 50%;
     object-fit: cover;
-    border: 2px solid red;
+    border: 10px solid black;
 }
 ul{
     justify-content:space-around;
@@ -32,4 +32,10 @@ ul{
     height: 1000px;
     background-color:aquamarine;
     margin-left: 30%;
+}
+#arasu{
+    list-style-type: none;
+    font-size: 50px;
+    color:green;
+    font-weight: bolder;
 }

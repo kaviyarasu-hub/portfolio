@@ -1,0 +1,16 @@
+#arasu{
+    list-style-type: none;
+    font-size: 50px;
+    font-weight: bolder;
+    color: green;
+}
+.imge{
+    margin-left: 180px;
+    margin-top: 500px;
+    width: 500px;
+    height: 500px;
+}
+    #img2{
+    border-radius: 360%;
+    border: 10px solid black;
+}

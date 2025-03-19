@@ -5,6 +5,7 @@
 }
     #img2{
     border-radius: 360%;
+    border: 10px solid black;
 }
 .abc{
     display: flex;
@@ -14,7 +15,9 @@ ul{
     justify-content:space-around;
     list-style-type: none;
     font-size: 30px;
-    text-align: center;
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
     
 }
 #one{
@@ -38,7 +41,9 @@ ul{
 }
 #arasu{
     list-style-type: none;
-    font-size: 30px;
+    font-size: 50px;
+    color: green;
+    font-weight: bolder;
 }
 #four{
     font-size: large;
